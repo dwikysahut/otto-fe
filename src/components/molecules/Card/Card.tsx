@@ -1,5 +1,5 @@
 import React, { ReactNode } from "react";
-import Space from "../atom/Space";
+import Space from "../../atom/Space";
 
 type CardProps = {
   children: ReactNode;
